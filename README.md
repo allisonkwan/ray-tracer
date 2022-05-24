@@ -10,21 +10,28 @@ Ray tracing renderer. Capabilities include:
 Reflections implemented using recursive eye ray generation.
 
 ## Sample Scenes
-Reflection
+Reflection  
 ![Reflection](./s8.PNG)
-Ambient Shading
+
+Ambient Shading  
 ![Tricolor](./s7.PNG)
-Reflection & Specular Highlights
+
+Reflection & Specular Highlights  
 ![Hint of Reflection](./s6.PNG)
-Specular Highlights & Ambient Shading
+
+Specular Highlights & Ambient Shading  
 ![Three Spheres](./s5.PNG)
-Shadows
+
+Shadows  
 ![Face](./s3.PNG)
-Cylinder End Caps
+
+Cylinder End Caps  
 ![Filled Rings](./s2.PNG)
-Basic Cylinders
+
+Basic Cylinders  
 ![Two Cylinders](./s1.PNG)
-Ambient Shading
+
+Ambient Shading  
 ![Sphere](./s4.PNG)
 
 ## Implementation Details
